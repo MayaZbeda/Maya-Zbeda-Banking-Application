@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Maya-Zbeda-Banking-Application/static/css/main.02c77c6f.css",
+    "main.js": "/Maya-Zbeda-Banking-Application/static/js/main.59924222.js",
+    "static/media/background2.jpg": "/Maya-Zbeda-Banking-Application/static/media/background2.238e564258b524daaa6d.jpg",
+    "index.html": "/Maya-Zbeda-Banking-Application/index.html",
+    "main.02c77c6f.css.map": "/Maya-Zbeda-Banking-Application/static/css/main.02c77c6f.css.map",
+    "main.59924222.js.map": "/Maya-Zbeda-Banking-Application/static/js/main.59924222.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.02c77c6f.css",
+    "static/js/main.59924222.js"
+  ]
+}
